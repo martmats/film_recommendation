@@ -1,0 +1,15 @@
+streamlit
+pandas
+requests
+psycopg2-binary
+python-dotenv
+matplotlib
+plost
+plotly
+datetime
+Pillow
+numpy
+scipy
+scikit-learn
+
+
